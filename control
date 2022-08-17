@@ -1,0 +1,9 @@
+Package: com.alnoise.firsttweak
+Name: First Tweak
+Version: 1.0.1
+Architecture: iphoneos-arm
+Description: My first tweak!
+Maintainer: alnoise
+Author: alnoise
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
