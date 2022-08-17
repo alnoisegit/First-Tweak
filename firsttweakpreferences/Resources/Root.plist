@@ -49,6 +49,8 @@
 		<string>PSSwitchCell</string>
 		<key>label</key>
 		<string>Enabled</string>
+		<key>default</key>
+		<false/>
 		<key>defaults</key>
 		<string>com.alnoise.firsttweakpreferences</string>
 		<key>key</key>

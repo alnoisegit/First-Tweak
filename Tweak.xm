@@ -21,8 +21,8 @@
 	NSDictionary *bundleDefaults = [[NSUserDefaults standardUserDefaults]
 	persistentDomainForName:@"com.alnoise.firsttweakpreferences"];
 
-	id isDockHideEnabled = [bundleDefaults valueForKey:@"isDockHideEnabled"];
-	if ([isDockHideEnabled isEqual:@0]) {
+	id isEnabled = [bundleDefaults valueForKey:@"isDockHideEnabled"];
+	if ([isEnabled isEqual:@0]) {
 		bgView.hidden = NO;
 	} else {
 		bgView.hidden = YES;

@@ -1,5 +1,6 @@
 #import <Foundation/Foundation.h>
 #import "FirstRootListController.h"
+#import <spawn.h>
 
 @implementation FirstRootListController
 
