@@ -52,7 +52,7 @@
 		<key>defaults</key>
 		<string>com.alnoise.firsttweakpreferences</string>
 		<key>key</key>
-		<string>isEnabled</string>
+		<string>isDockHideEnabled</string>
 		</dict>
 	</array>
 	<key>title</key>
